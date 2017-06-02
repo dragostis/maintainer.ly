@@ -1,0 +1,4 @@
+project=maintainer.ly
+architecture=container
+test=minitest
+template=erb

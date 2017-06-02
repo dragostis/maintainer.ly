@@ -1,0 +1,6 @@
+Gemfile.lock
+/.bundle
+/db/*.sqlite
+/public/assets*
+/vendor
+/tmp
